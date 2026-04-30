@@ -18,4 +18,4 @@ Displays individual blog post information including title, date, and preview tex
 
 ## Screenshots
 
-![alt text](image.png)
+![alt text](image-1.png)
